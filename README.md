@@ -3,7 +3,7 @@ I'm a **fresher Data Analyst** with a passion for turning raw data into real ins
 
 Here, you’ll find:
 
-🔍 **Mini-projects and analyses** I’ve worked on using Excel, SQL, Python, and Power BI  
+🔍 **Mini-projects and analyses** I’ve worked on using Microsoft Excel, SQL, Python, and Power BI  
 📈 **Learnings** from late-night debugging, dashboard designing, and data wrangling  
 🌿 **Notes & inspiration** for anyone navigating the early days of a data career  
 
