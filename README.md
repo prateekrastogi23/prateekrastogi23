@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Prateek Rastogi
-I'm a **fresher Data Analyst** with a passion for turning raw data into real insights. I'm on a journey of learning, building, and exploring the endless possibilities of data—all while trying to make work life a little less overwhelming (and a lot more fun). 🎯📊
+I'm a **fresher Data Analyst** with a passion for turning raw data into real insights. I'm on a journey of learning, building, and exploring the endless possibilities of data—all while trying to make work life a little less overwhelming and a lot more fun. 🎯📊
 
 Here, you’ll find:
 
